@@ -1,0 +1,174 @@
+BasicInfo:
+  FirstName: Andrei
+  LastName: Popescu
+  Photo: img/avatar.jpeg
+
+  Contacts:
+    # - Icon: fas fa-phone
+    #   Info: +44 123 456 789
+    - Icon: fas fa-envelope
+      Info: popescu.andrei.ade[at]gmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://adedj.github.io" target="_blank">adedj.github.io</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Romania
+
+Profile: Experienced DevOps Engineer with a strong focus on Automation, Linux, Kubernetes, Cloud Environments, CI/CD, Infrastructure as Code (IaC), Python, Security and an enthusiast for Open Source technologies.
+
+Experience:
+  - Employer: ALLSTARSIT
+    Place: Bucharest, RO
+    Positions:
+      - Title: Senior DevOps Engineer
+        Date: Jun 2022 - Present
+        Details:
+          - Managed and provisioned infrastructure across multiple platforms including AWS, GitHub, Rockset, Kubernetes, and ControlMonkey, using Terraform. Developed custom Terraform modules to automate the deployment of reusable infrastructure configurations.
+          - Developed and managed CI/CD pipelines with Jenkins, incorporating shared libraries to streamline processes, and implemented GitHub Actions workflows with self-hosted runners.
+          - Managed and provisioned EKS clusters with autoscaling capabilities utilizing Karpenter and Keda.
+          - Implemented and maintained cloud monitoring solutions with CloudWatch and Prometheus, monitoring infrastructure and applications, and creating custom alerts and dashboards.
+          - Architected and implemented new solutions based on project needs, incorporating AWS best practices, including the AWS Well-Architected Framework, to ensure security, reliability, and optimal performance.
+          - Designed, owned, and delivered projects to achieve specific business goals, such as designing and developing tools for developers, implementing custom CI/CD requirements, configuring and managing code scanning tools, setting up and maintaining infrastructure monitoring solutions, upgrading specific services to improve functionality and performance, and optimizing system performance.
+          - Automated various tasks using Python, both in AWS Lambda functions and standalone scripts.
+          - Integrated the entire Terraform code stack with ControlMonkey.io, implementing a GitOps approach to infrastructure provisioning that enhanced automation and monitoring capabilities.
+          - Applied FinOps best practices optimizing costs, including conducting regular cost assessments, providing cost guidance to teams, setting cost alerts, optimizing application resources, and engaging with AWS to reduce cloud costs.
+        Badges: ['AWS', 'Terraform', 'Jenkins', 'GitHub Actions', 'Prometheus', 'Python', 'Groovy', 'GitOps', 'FinOps']
+  - Employer: 8x8 Inc
+    Place: Bucharest, RO
+    Positions:
+      - Title: Senior DevOps Engineer
+        Date: Jun 2021 - Jun 2022
+        Details:
+          - Provisioned, operated, and maintained multi-cloud Kubernetes clusters on both Amazon Web Services (AWS) and Oracle Cloud Infrastructure (OCI).
+          - Developed a self-service Jenkins as a Service (JaaS) solution, allowing each team to own their Jenkins master, configured in code and running in Kubernetes.
+          - Designed and implemented CI/CD pipelines to automate the building, testing, and deployment of software applications.
+          - Implemented GitOps automation for Kubernetes clusters using ArgoCD.
+          - Used Terraform/Terragrunt to define and manage infrastructure as code on AWS and OCI.
+          - Optimized Docker build times and application deployment strategies, resulting in significant reductions in build and deployment times, improved reliability, and enhanced scalability.
+          - Provided code reviews on GitHub, participated in design meetings, and troubleshooted complex incidents. Mentored junior engineers, offering guidance and support.
+        Badges: ['AWS', 'OCI', 'Kubernetes', 'Jenkins', 'Helm', 'ArgoCD', 'Terraform', 'Docker', 'GitOps', 'Python', 'Groovy']
+  - Employer: Endava
+    Place: Bucharest, RO
+    Positions:
+      - Title: Senior DevOps Engineer
+        Date: 2020 - Jun 2021
+        Details:
+          - Orchestrated the deployment and management of multiple middleware applications using Ansible.
+          - Configured and maintained all aspects of Artifactory, including repositories, users, roles, permissions, and other configuration options.
+          - Designed and implemented CI/CD pipelines in Jenkins to automate the software development and delivery process.
+          - Automated the creation of AWS AMIs using Packer.
+          - Used Docker to build and maintain efficient and secure Docker images for software applications, focusing on optimizing image performance and size.
+          - Provisioned and managed AWS resources with Terraform.
+          - Utilized ELK (Elasticsearch, Logstash, and Kibana) to collect, store, and analyze log data; employed Logstash to manipulate and transform logs as needed.
+        Badges: ['AWS', 'CI/CD', 'Ansible', 'Kubernetes', 'Jenkins', 'Docker', 'Terraform', 'ELK Stack', 'Python', 'Groovy']
+  - Employer: Orange Services
+    Place: Bucharest, RO
+    Positions:
+      - Title: Automation Linux Engineer
+        Date: 2018 - 2020
+        Details:
+          - Managed over 2,000 Linux servers, both virtual and bare metal, running RedHat and CentOS.
+          - Automated server provisioning, configuration, and patch management using tools like Foreman, Puppet, Ansible and Rundeck, improving operational efficiency and scalability.
+          - Administered essential infrastructure services such as DNS, SMTP, NTP, web proxies, and load balancing.
+          - Configured, managed, patched, and upgraded Veritas VCS clusters for Oracle databases on bare metal servers.
+          - Designed and implemented HA (High Availability) solutions for a variety of projects.
+          - Created and maintained internal documentation for various projects, including technical procedures, diagrams, and other information.
+          - Provided technical support to other teams during infrastructure outages and other incidents.
+          - Participated in on-call rotation support for the infrastructure, collaborating with other teams to ensure the availability and reliability of our systems.
+        Badges: ['Linux', 'Networking', 'Security', 'Storage', 'Bash', 'Python', 'SQL', 'Git', 'LDAP', 'Ansible']
+  - Employer: IBM Romania
+    Place: Bucharest, RO
+    Positions:
+      - Title: Cloud Linux Engineer
+        Date: Feb 2017 - 2018
+        Details:
+          - Administered Linux virtual servers for the IBM Cloud environment, specifically Red Hat and CentOS distributions.
+          - Developed and implemented automation scripts for conducting bulk upgrades across Linux servers.
+          - Conducted security and compliance audits of Linux servers.
+          - Monitored system performance using industry-standard tools to identify and resolve performance bottlenecks.
+          - Developed bash scripts to automate repetitive operational tasks, thereby improving overall system efficiency.
+          - Performed penetration tests and resolved identified issues.
+          - Resolved complex incidents requiring in-depth technical expertise.
+        Badges: ['Linux', 'Automation', 'Security', 'Performance Monitoring', 'Bash', 'Penetration Testing']
+  - Employer: Huawei Technologies
+    Place: Bucharest, RO
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Infrastructure Engineer
+        Date: Dec 2014 - Feb 2017
+        Details:
+          - Administered both bare-metal and virtualized Linux servers, covering a range of tasks from system configuration and OS updates, to patch management and backup processes.
+          - Managed network infrastructure through firewall configuration, firmware upgrades, and performance metric monitoring to ensure optimal uptime and security.
+          - Automated routine tasks using Bash scripts to improve efficiency.
+          - Configured storage devices, focusing on LUN provisioning and system upgrades, to optimize data accessibility and performance.
+          - Deployed, configured, and managed LDAP servers, including user creation, deletion, and modification, as well as group management and permissions.
+          - Performed advanced troubleshooting and fault identification, implementing rapid resolutions to minimize system downtime.
+          - Carried out root cause analysis for critical incidents and documented findings to suggest preventive measures.
+        Badges: ['Linux', 'Network', 'Bash', 'Storage', 'LDAP', 'Troubleshooting']
+
+Education:
+  - Course: Bachelor of Science in Electrical Engineering
+    Place: University of Craiova
+  - Course: Bachelor of Science in Business Administration
+    Place: University of Craiova
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - Bash
+      - Groovy
+      - SQL
+  - Family: Cloud
+    Items:
+      - AWS
+      - Oracle Cloud
+  - Family: Misc
+    Items:
+      - Linux
+      - Kubernetes
+      - Networking
+      - Security
+      - Storage
+      - CI/CD
+      - GitOps
+      - FinOps      
+  - Family: Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - GitHub Actions
+      - Ansible
+      - Terraform
+      - Helm
+      - ArgoCD
+      - Rockset
+      - ControlMonkey
+      - Artifactory
+      - LDAP
+      - Jira
+      - Confluence
+
+Languages:
+  - Name: Romanian
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: German
+    Level: B1
+
+Diplomas:
+  - AWS Certified Solutions Architect – Professional
+  - AWS Certified Solution Architect - Associate
+  - Oracle Cloud Infrastructure Architect Associate
+  - Oracle Cloud Infrastructure Cloud Operations Associate
+  - Red Hat Certified System Administrator
+
+Interests:
+  - Music
+  - Biking
+  - Traveling
+  - DJing
+  - Snowboarding
+  - Art

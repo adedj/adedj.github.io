@@ -1,0 +1,29 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://adedj.github.io/"
+title = "Andrei Popescu - CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#36454F"
+colorPageBackground = "#ddd"
+colorPrimary = "#87CEEB"
+colorSecondary = "#85858B"
+colorIconPrimary = "#fff"
+colorIconBackground = "#87CEEB"
+colorRightColumnBackground = "#DCF0F8"
+colorRightColumnHeadingText = "#36454F"
+colorRightColumnBodyText = "#36454F"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#87CEEB"
+pages = 2
+# Set this param to 'true' to swap the bar positions
+swapColumns = true

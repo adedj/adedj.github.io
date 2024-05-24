@@ -1,1 +1,0 @@
-# adedj.github.io
