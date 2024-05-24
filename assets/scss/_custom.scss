@@ -1,0 +1,9 @@
+// Override to remove footer content from .content__left
+.content__left {
+  @media screen {
+      &::after {
+          content: ''; // Set content to empty to remove existing text
+          height: 0; // Optional: Adjust height if you want to remove the space reserved for the text
+      }
+  }
+}
