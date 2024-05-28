@@ -22,11 +22,11 @@ Experience:
       - Title: Senior DevOps Engineer
         Date: Jun 2022 - Present
         Details:
-          - Managed and provisioned infrastructure across multiple platforms including AWS, GitHub, Rockset, Kubernetes, and ControlMonkey, using Terraform. Developed custom Terraform modules to automate the deployment of reusable infrastructure configurations.
-          - Developed and managed CI/CD pipelines with Jenkins, incorporating shared libraries to streamline processes, and implemented GitHub Actions workflows with self-hosted runners.
-          - Managed and provisioned EKS clusters with autoscaling capabilities utilizing Karpenter and Keda.
-          - Implemented and maintained cloud monitoring solutions with CloudWatch and Prometheus, monitoring infrastructure and applications, and creating custom alerts and dashboards.
-          - Architected and implemented new solutions based on project needs, incorporating AWS best practices, including the AWS Well-Architected Framework, to ensure security, reliability, and optimal performance.
+          - Designed, provisioned and maintained infrastructure across multiple platforms including AWS, GitHub and Rockset using Terraform. Developed custom Terraform modules to automate the deployment of reusable infrastructure configurations.
+          - Designed and optimized CI/CD pipelines with Jenkins using shared libraries and implemented GitHub Actions workflows with self-hosted runners.
+          - Provisioned, configured and maintained EKS clusters with autoscaling capabilities using Karpenter and Keda.
+          - Deployed and maintained cloud monitoring solutions with CloudWatch and Prometheus, monitoring infrastructure and applications, and creating custom alerts and dashboards.
+          - Architected new solutions based on project needs, integrating AWS best practices, including the AWS Well-Architected Framework, to ensure security, reliability, and optimal performance.
           - Designed, owned, and delivered projects to achieve specific business goals, such as designing and developing tools for developers, implementing custom CI/CD requirements, configuring and managing code scanning tools, setting up and maintaining infrastructure monitoring solutions, upgrading specific services to improve functionality and performance, and optimizing system performance.
           - Automated various tasks using Python, both in AWS Lambda functions and standalone scripts.
           - Integrated the entire Terraform code stack with ControlMonkey.io, implementing a GitOps approach to infrastructure provisioning that enhanced automation and monitoring capabilities.
@@ -39,8 +39,8 @@ Experience:
         Date: Jun 2021 - Jun 2022
         Details:
           - Provisioned, operated, and maintained multi-cloud Kubernetes clusters on both Amazon Web Services (AWS) and Oracle Cloud Infrastructure (OCI).
-          - Developed a self-service Jenkins as a Service (JaaS) solution, allowing each team to own their Jenkins master, configured in code and running in Kubernetes.
-          - Designed and implemented CI/CD pipelines to automate the building, testing, and deployment of software applications.
+          - Developed a self-service Jenkins as a Service (JaaS) solution, allowing each team to own their Jenkins master, configured in code and running in Kubernetes.          
+          - Automated software lifecycle by developing CI/CD pipelines, enhancing build, test, and deployment efficiency across multiple projects.
           - Implemented GitOps automation for Kubernetes clusters using ArgoCD.
           - Used Terraform/Terragrunt to define and manage infrastructure as code on AWS and OCI.
           - Optimized Docker build times and application deployment strategies, resulting in significant reductions in build and deployment times, improved reliability, and enhanced scalability.
@@ -54,7 +54,7 @@ Experience:
         Details:
           - Orchestrated the deployment and management of multiple middleware applications using Ansible.
           - Configured and maintained all aspects of Artifactory, including repositories, users, roles, permissions, and other configuration options.
-          - Designed and implemented CI/CD pipelines in Jenkins to automate the software development and delivery process.
+          - Created CI/CD pipelines with Jenkins, greatly improving the software development and delivery process through automation.
           - Automated the creation of AWS AMIs using Packer.
           - Used Docker to build and maintain efficient and secure Docker images for software applications, focusing on optimizing image performance and size.
           - Provisioned and managed AWS resources with Terraform.
