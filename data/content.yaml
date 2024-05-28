@@ -4,10 +4,10 @@ BasicInfo:
   Photo: img/avatar.jpeg
 
   Contacts:
-    # - Icon: fas fa-phone
-    #   Info: +44 123 456 789
     - Icon: fas fa-envelope
       Info: popescu.andrei.ade[at]gmail.com
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/popescu-andrei-ade" target="_blank">popescu-andrei-ade</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://adedj.github.io" target="_blank">adedj.github.io</a>
     - Icon: fas fa-map-marker-alt
