@@ -22,14 +22,14 @@ Experience:
       - Title: Senior DevOps Engineer
         Date: Jun 2022 - Present
         Details:
-          - Architected and managed cross-platform infrastructure using Terraform, incorporating custom modules for AWS, GitHub, and Rockset.
+          - Architected and managed cross-platform infrastructure using Terraform, incorporating custom modules for AWS, GitHub and Rockset.
           - Integrated Terraform code stack with ControlMonkey.io, implementing a GitOps approach to infrastructure provisioning, which reduced manual intervention by 50%.
           - Developed and optimized CI/CD pipelines with Jenkins using Groovy shared libraries.
           - Improved security by detecting and preventing hard-coded secrets in Git repositories using Gitleaks with GitHub Actions and self-hosted runners.
-          - Provisioned, configured, and operated EKS clusters with auto-scaling capabilities using Karpenter and Keda.
+          - Provisioned, configured and operated EKS clusters with auto-scaling capabilities using Karpenter and Keda.
           - Deployed and managed monitoring solutions with Prometheus, created custom alerts and built dashboards with Grafana.
           - Automated tasks using Python, both in AWS Lambda functions and standalone scripts.
-          - Applied FinOps best practices optimizing costs, including conducting regular cost assessments, providing cost guidance to teams, setting cost alerts, optimizing application resources, and engaging with AWS to reduce cloud costs.
+          - Applied FinOps best practices optimizing costs, including conducting regular cost assessments, providing cost guidance to teams, setting cost alerts, optimizing application resources and engaging with AWS to reduce cloud costs.
         # Badges: ['AWS', 'Terraform', 'Jenkins', 'GitHub Actions', 'Prometheus', 'Python', 'Groovy', 'GitOps', 'FinOps']
   - Employer: 8x8 Inc
     Place: Bucharest, RO
@@ -53,7 +53,7 @@ Experience:
           - Set up and operated Artifactory repository manager, achieving a 25% reduction in storage costs.
           - Created CI/CD pipelines with Jenkins, improving the software development and delivery process through automation.
           - Provisioned and configured AWS infrastructure with Terraform using custom modules.
-          - Implemented ELK (Elasticsearch, Logstash, and Kibana) to collect, store, and analyze log data; employed Logstash to manipulate and transform logs.
+          - Implemented ELK (Elasticsearch, Logstash and Kibana) to collect, store and analyze log data; employed Logstash to manipulate and transform logs.
         # Badges: ['AWS', 'CI/CD', 'Ansible', 'Kubernetes', 'Jenkins', 'Docker', 'Terraform', 'ELK Stack', 'Python', 'Groovy']
   - Employer: Orange Services
     Place: Bucharest, RO
@@ -62,11 +62,11 @@ Experience:
         Date: 2018 - 2020
         Details:
           - Managed over 2,000 Linux servers, both virtual and bare metal, running RedHat and CentOS.
-          - Automated server provisioning, configuration, and patch management using tools like Foreman, Puppet, Ansible and Rundeck.
+          - Automated server provisioning, configuration and patch management using tools like Foreman, Puppet, Ansible and Rundeck.
           - Administered essential infrastructure services such as DNS, SMTP, NTP, LDAP and web proxies.
           - Configured, managed, patched and upgraded Veritas VCS clusters for Oracle databases on bare metal servers.
           - Designed and implemented a High Availability Squid proxy solution by configuring redundant Squid servers with automated failover mechanisms improving uptime to 98%.
-          - Created and maintained internal documentation for projects, including technical procedures, diagrams, and other information.
+          - Created and maintained internal documentation for projects, including technical procedures, diagrams and other information.
           - Improved on-call burden by troubleshooting issues, tuning alerts and improving observability dashboards.
         # Badges: ['Linux', 'Networking', 'Security', 'Storage', 'Bash', 'Python', 'SQL', 'Git', 'LDAP', 'Ansible']
   - Employer: IBM Romania
@@ -92,7 +92,7 @@ Experience:
           - Managed network firewall firmware updates and configuration, ensuring optimal uptime and security.
           - Automated routine tasks using Bash scripts to improve efficiency.
           - Configured storage devices, focusing on LUN provisioning and system upgrades.
-          - Deployed, configured, and managed LDAP servers.
+          - Deployed, configured and managed LDAP servers.
           - Performed root cause analysis for critical incidents and documented findings to suggest preventive measures.
         # Badges: ['Linux', 'Network', 'Bash', 'Storage', 'LDAP']
 
