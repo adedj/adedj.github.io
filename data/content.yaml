@@ -50,7 +50,7 @@ Experience:
         Date: 2020 - Jun 2021
         Details:
           - Orchestrated the deployment and management of middleware applications using Ansible.
-          - Set up and operated Artifactory repository manager.
+          - Set up and operated Artifactory repository manager, achieving a 25% reduction in storage costs.
           - Created CI/CD pipelines with Jenkins, improving the software development and delivery process through automation.
           - Provisioned and configured AWS infrastructure with Terraform using custom modules.
           - Implemented ELK (Elasticsearch, Logstash, and Kibana) to collect, store, and analyze log data; employed Logstash to manipulate and transform logs.
