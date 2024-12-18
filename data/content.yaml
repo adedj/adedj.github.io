@@ -22,7 +22,7 @@ Experience:
       - Title: Senior DevOps Engineer
         Date: Jun 2022 - Present
         Details:
-          - Architected and managed cross-platform infrastructure using Terraform, incorporating custom modules for AWS, GitHub and Rockset.
+          - Architected and managed cross-platform infrastructure using Terraform, incorporating custom modules for AWS, GitHub and SingleStoreDB.
           - Integrated Terraform code stack with ControlMonkey.io, implementing a GitOps approach to infrastructure provisioning, which reduced manual intervention by 50%.
           - Developed and optimized CI/CD pipelines with Jenkins using Groovy shared libraries.
           - Improved security by detecting and preventing hard-coded secrets in Git repositories using Gitleaks with GitHub Actions and self-hosted runners.
