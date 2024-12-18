@@ -11,13 +11,13 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://adedj.github.io" target="_blank">adedj.github.io</a>
     - Icon: fas fa-map-marker-alt
-      Info: Romania
+      Info: Brussels, Belgium
 
 Profile: Experienced DevOps Engineer with a strong focus on Automation, Linux, Kubernetes, Cloud Environments, CI/CD, Infrastructure as Code (IaC), Python, Security and an enthusiast for Open Source technologies.
 
 Experience:
   - Employer: ALLSTARSIT
-    Place: Bucharest, RO
+    Place: Remote
     Positions:
       - Title: Senior DevOps Engineer
         Date: Jun 2022 - Present
@@ -121,6 +121,8 @@ Skills:
       - Kubernetes
       - Networking
       - Security
+      - Monitoring
+      - Observability
       - Storage
       - CI/CD
       - GitOps
@@ -128,17 +130,17 @@ Skills:
   - Family: Tools
     Items:
       - Git
+      - ArgoCD
+      - Terraform
       - Docker
       - Jenkins
       - GitHub Actions
       - Ansible
-      - Terraform
       - Helm
-      - ArgoCD
-      - Rockset
+      - SingleStoreDB
       - ControlMonkey
       - Artifactory
-      - LDAP
+      - Prometheus
       - Jira
       - Confluence
 
